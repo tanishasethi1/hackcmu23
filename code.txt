@@ -1,0 +1,10 @@
+links to colab notebook for the two models
+
+
+# ML Models
+
+# Yolov5
+https://colab.research.google.com/drive/1i3JrBpNUbuotphLoUXbvdknvVIxq6EJy
+
+# Resnet50
+https://colab.research.google.com/drive/14L_lQZdvRMONnSkxJ0GpS2cYHpw_EPo5?usp=sharing
